@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# YOLO results (very large)
+results/
+
+# dataset (very large)
+Data/
+~/Data/
+
+# system files
+.DS_Store
